@@ -1,6 +1,12 @@
 //
 // sketch20190819a_Blank.ino
 //
+// Written by @hohno_at_kuimc
+//
+// Public domain
+//
+// Last update: Mon Aug 19 07:28:17 JST 2019 by @hohno_at_kuimc
+//
 
 // ---------------------------------------------------------
 
