@@ -1,8 +1,11 @@
 # eZone--mgmgws1908
 
-#### Last update: Mon Aug 19 06:54:17 JST 2019
+### Last update: Mon Aug 19 06:54:17 JST 2019
 
-ものグラミング集中講義201809 / monogramming workshop Aug 2019
+### ものグラミング集中講義201809 / monogramming workshop Aug 2019
+
+https://goo.gl/hgwVmE
+
 
 このフォルダには、2019年8月19日(月)から同21日までの3日間に開催される集中講義「シェルスクリプトを用いた「ものグラミング」演習」のための資料（主にソースコード）を配置してある。
 
