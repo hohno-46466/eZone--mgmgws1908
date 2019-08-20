@@ -23,8 +23,8 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
-	valVR = map(analogRead(VOL), 0, 1023, 0, 255);
-	// Serial.write(77); Serial.write(valVR);
+  valVR = map(analogRead(VOL), 0, 1023, 0, 255);
+  // Serial.write(77); Serial.write(valVR);
   Serial.println(valVR);
   delay(100);
 }
