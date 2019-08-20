@@ -28,12 +28,12 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
 
-	while (Serial.available() > 0) {
+  while (Serial.available() > 0) {
       int r = Serial.parseInt();
       int g = Serial.parseInt();
       int b = Serial.parseInt();
 
-			char c;
+      char c;
       while (((c = Serial.read()) != '\n') && (c != '\r')) {}   // 行末まで読み飛ばす
 
       red   = 255 - constrain(r, 0, 255);
