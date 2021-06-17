@@ -8,6 +8,8 @@
 // Last update: Mon Aug 19 07:28:04 JST 2019 by @hohno_at_kuimc
 //
 
+// ---------------------------------------------------------
+
 const int redPin = 11;
 const int greenPin = 10;
 const int bluePin = 9;
