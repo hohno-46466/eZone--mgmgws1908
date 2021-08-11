@@ -1,4 +1,4 @@
-# eZone--mgmgws1908
+# GitHub/eZone--mgmgws1908
 
 ### Last update: Mon Aug 19 06:54:17 JST 2019
 
@@ -26,3 +26,5 @@ $ diff -r -w -u 以前のフォルダ 新しいフォルダ
 
 
 -- @hohno_at_kuimc
+
+-EOF-
