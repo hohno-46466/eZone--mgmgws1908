@@ -27,4 +27,6 @@ $ diff -r -w -u 以前のフォルダ 新しいフォルダ
 
 -- @hohno_at_kuimc
 
+Note: 	url = https://github.com/hohno-46466/eZone--mgmgws1908
+
 -EOF-
