@@ -6,7 +6,6 @@
 
 https://goo.gl/hgwVmE
 
-
 このフォルダには、2019年8月19日(月)から同21日までの3日間に開催される集中講義「シェルスクリプトを用いた「ものグラミング」演習」のための資料（主にソースコード）を配置してある。
 
 このフォルダは POSIX環境（Linux, macOS, WSL (on Windows10), cygwin (on Windows 7 and later) であれば、以下のコマンドで取得できる。
@@ -24,9 +23,10 @@ github のアカウントがなくても、git clone したのフォルダを別
 
 $ diff -r -w -u 以前のフォルダ 新しいフォルダ
 
-
 -- @hohno_at_kuimc
 
 Note: 	url = https://github.com/hohno-46466/eZone--mgmgws1908
+
+Note:   url = git@github.com:hohno-46466/eZone--mgmgws1908.git
 
 -EOF-
