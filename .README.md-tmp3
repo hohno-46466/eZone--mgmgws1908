@@ -1,4 +1,3 @@
-# GitHub/eZone--mgmgws1908
 
 ### Last update: Mon Aug 19 06:54:17 JST 2019
 
@@ -24,29 +23,6 @@ github のアカウントがなくても、git clone したのフォルダを別
 $ diff -r -w -u 以前のフォルダ 新しいフォルダ
 
 -- @hohno_at_kuimc
-
-
-#### 参考：ディレクトリ構成
-
-    ./eZone--mgmgws1908
-     ├──  README.md
-     ├──  README.md.bak
-     ├──  README.md.old
-     └──  arduino/
-         ├──  00README.txt
-         ├──  sketch20190819a_00_Blank/
-         │   └──  sketch20190819a_00_Blank.ino
-         ├──  sketch20190819b-Blink/
-         │   └──  sketch20190819b-Blink.ino
-         ├──  sketch20190820a_AnalogReadSerial_POT1/
-         │   └──  sketch20190820a_AnalogReadSerial1.ino
-         ├──  sketch20190820b_AnalogReadSerial_POT3/
-         │   └──  sketch20190820a_AnalogReadSerial3.ino
-         └──  sketch20190820c_SerialReadAnalog_POT3/
-             └──  sketch20190820c_SerialReadAnalog_POT3.ino
-     
-     6 directories, 9 files (Thu Jul 14 04:01:53 JST 2022)
-
 
 Note: 	url = https://github.com/hohno-46466/eZone--mgmgws1908
 
