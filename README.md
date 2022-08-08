@@ -48,8 +48,8 @@ $ diff -r -w -u 以前のフォルダ 新しいフォルダ
      6 directories, 9 files (Thu Jul 14 04:01:53 JST 2022)
 
 
-Note: url = https://github.com/hohno-46466/eZone--mgmgws1908
+Note: URL = https://github.com/hohno-46466/eZone--mgmgws1908
 
-Note: url = git@github.com:hohno-46466/eZone--mgmgws1908.git
+Note: URL = git@github.com:hohno-46466/eZone--mgmgws1908.git
 
 -EOF-
