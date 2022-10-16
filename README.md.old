@@ -27,7 +27,7 @@ $ diff -r -w -u 以前のフォルダ 新しいフォルダ
 
 #### 参考：ディレクトリ構成
 
-     ./eZone--mgmgws1908
+    ./eZone--mgmgws1908
      ├──  README.md
      ├──  README.md.bak
      ├──  README.md.old
@@ -44,7 +44,7 @@ $ diff -r -w -u 以前のフォルダ 新しいフォルダ
          └──  sketch20190820c_SerialReadAnalog_POT3/
              └──  sketch20190820c_SerialReadAnalog_POT3.ino
      
-     6 directories, 9 files (Sun Sep 25 19:07:11 JST 2022)
+     6 directories, 9 files (Fri Sep 30 22:41:57 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/eZone--mgmgws1908
